@@ -10,7 +10,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <AmplifySignOut />
+        {/* <AmplifySignOut /> */}
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
@@ -30,4 +30,4 @@ class App extends Component {
   }
 }
 
-export default withAuthenticator(App);
+// export default withAuthenticator(App);
