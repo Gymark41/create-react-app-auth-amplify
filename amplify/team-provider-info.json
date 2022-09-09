@@ -1,0 +1,20 @@
+{
+  "helloworld": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-authcra-helloworld-22254-authRole",
+      "UnauthRoleArn": "arn:aws:iam::737482738729:role/amplify-authcra-helloworld-22254-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::737482738729:role/amplify-authcra-helloworld-22254-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-authcra-helloworld-22254-deployment",
+      "UnauthRoleName": "amplify-authcra-helloworld-22254-unauthRole",
+      "StackName": "amplify-authcra-helloworld-22254",
+      "StackId": "arn:aws:cloudformation:us-east-1:737482738729:stack/amplify-authcra-helloworld-22254/d756fce0-3007-11ed-9e49-12c4da048455",
+      "AmplifyAppId": "dckxbcxdvf1zh"
+    },
+    "categories": {
+      "auth": {
+        "cognitocf0c6096": {}
+      }
+    }
+  }
+}
