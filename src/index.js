@@ -4,7 +4,9 @@ import './index.css';
 // import App from './App';
 // import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<h1>Hello Jacob, took me about an hour!</h1>);
+const root = ReactDOM.render(document.getElementById('root'));
+root.render(<h1>Hello, Jacob. Took me a damn second!</h1>);
+
 // ReactDOM.render(<App />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
